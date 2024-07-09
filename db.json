@@ -1,5 +1,36 @@
 {
   "recipients": [],
-  "donors": [],
+  "donors": [
+    {
+      "username": "Sanjay",
+      "password": "test@123",
+      "bloodGroup": "A+ve",
+      "dsitrict": "Ernakulam",
+      "state": "Kerala",
+      "phone": "8848490625",
+      "type": "donor",
+      "lastDonation": "13/02/2023"
+    },
+    {
+      "username": "Subin",
+      "password": "test@123",
+      "bloodGroup": "A+ve",
+      "dsitrict": "Ernakulam",
+      "state": "Kerala",
+      "phone": "7994465581",
+      "type": "donor",
+      "lastDonation": "13/02/2023"
+    },
+    {
+      "username": "Sanju",
+      "password": "test@123",
+      "bloodGroup": "B+ve",
+      "dsitrict": "Ernakulam",
+      "state": "Kerala",
+      "phone": "9995377023",
+      "type": "donor",
+      "lastDonation": "13/06/2024"
+    }
+  ],
   "requests": []
 }
