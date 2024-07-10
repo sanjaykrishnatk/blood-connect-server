@@ -15,9 +15,10 @@
   ],
   "donors": [
     {
+      "id": 1,
       "username": "Sanjay",
       "password": "test@123",
-      "bloodGroup": "A+ve",
+      "bloodGroup": "A+",
       "dsitrict": "Ernakulam",
       "state": "Kerala",
       "phone": "8848490625",
@@ -25,9 +26,10 @@
       "lastDonation": "13/02/2023"
     },
     {
+      "id": 2,
       "username": "Subin",
       "password": "test@123",
-      "bloodGroup": "A+ve",
+      "bloodGroup": "B+",
       "dsitrict": "Ernakulam",
       "state": "Kerala",
       "phone": "7994465581",
@@ -35,9 +37,10 @@
       "lastDonation": "13/02/2023"
     },
     {
+      "id": 3,
       "username": "Sanju",
       "password": "test@123",
-      "bloodGroup": "B+ve",
+      "bloodGroup": "B+",
       "dsitrict": "Ernakulam",
       "state": "Kerala",
       "phone": "9995377023",
@@ -47,6 +50,7 @@
   ],
   "requests": [
     {
+      "id": 1,
       "userName": "Farhana",
       "bloodGroup": "A-",
       "unit": "2",
@@ -56,9 +60,11 @@
       "district": "Thrissur",
       "phone": "7025167527",
       "startDate": "2024-07-09T17:21:21.091Z",
-      "id": 1
+      "currentUnit": 0,
+      "donorList": []
     },
     {
+      "id": 2,
       "userName": "Anjitha",
       "bloodGroup": "O+",
       "unit": "3",
@@ -68,9 +74,11 @@
       "district": "Kollam",
       "phone": "9856782434",
       "startDate": "2024-07-09T17:23:25.703Z",
-      "id": 2
+      "currentUnit": 0,
+      "donorList": []
     },
     {
+      "id": 3,
       "userName": "Nizam",
       "bloodGroup": "B+",
       "unit": "1",
@@ -80,7 +88,8 @@
       "district": "Ernakulam",
       "phone": "9875624313",
       "startDate": "2024-07-09T19:03:21.421Z",
-      "id": 3
+      "currentUnit": 0,
+      "donorList": []
     }
   ]
 }
