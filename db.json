@@ -1,67 +1,70 @@
 {
   "recipients": [
     {
-      "userName": "Anu",
-      "bloodGroup": "A-",
-      "unit": "4",
-      "age": "35",
-      "gender": "female",
+      "id": 1,
+      "username": "Sanjay",
+      "age": 22,
+      "gender": "Male",
+      "password": "test@123",
+      "bloodGroup": "A+",
+      "district": "Ernakulam",
       "state": "Kerala",
-      "district": "Kollam",
-      "phone": "0123456789",
-      "startDate": "2024-07-09T15:11:52.278Z",
-      "id": 1
+      "phone": "8848490625",
+      "lastDonation": "12/07/2024"
     }
   ],
   "donors": [
     {
       "id": 1,
       "username": "Sanjay",
+      "age": 22,
+      "gender": "Male",
       "password": "test@123",
       "bloodGroup": "A+",
-      "dsitrict": "Ernakulam",
+      "district": "Ernakulam",
       "state": "Kerala",
       "phone": "8848490625",
-      "type": "donor",
-      "lastDonation": "2024-07-09T17:23:25.703Z",
+      "lastDonation": "12/07/2024",
       "history": [
         {
-          "id": 2,
-          "recieverName": "Anjitha",
-          "phone": "9856782434",
-          "date": "2024-07-09T17:23:25.703Z"
+          "id": 1,
+          "recieverName": "Farhana",
+          "phone": "7025167527",
+          "date": "12/07/2024"
         }
       ]
     },
     {
       "id": 2,
       "username": "Subin",
+      "age": 24,
+      "gender": "Male",
       "password": "test@123",
-      "bloodGroup": "B+",
-      "dsitrict": "Ernakulam",
+      "bloodGroup": "A+",
+      "district": "Ernakulam",
       "state": "Kerala",
       "phone": "7994465581",
-      "type": "donor",
-      "lastDonation": "2024-07-09T17:23:25.703Z",
+      "lastDonation": "12/07/2024",
       "history": [
         {
-          "id": 2,
-          "recieverName": "Anjitha",
-          "phone": "9856782434",
-          "date": "2024-07-09T17:23:25.703Z"
+          "id": 1,
+          "recieverName": "Farhana",
+          "phone": "7025167527",
+          "date": "12/07/2024"
         }
       ]
     },
     {
       "id": 3,
       "username": "Sanju",
+      "age": 22,
+      "gender": "Male",
       "password": "test@123",
       "bloodGroup": "B+",
-      "dsitrict": "Ernakulam",
+      "district": "Ernakulam",
       "state": "Kerala",
       "phone": "9995377023",
-      "type": "donor",
-      "lastDonation": "13/06/2024",
+      "lastDonation": "02/05/2024",
       "history": []
     }
   ],
@@ -76,21 +79,7 @@
       "state": "Kerala",
       "district": "Thrissur",
       "phone": "7025167527",
-      "startDate": "2024-07-09T17:21:21.091Z",
-      "currentUnit": 0,
-      "donorList": []
-    },
-    {
-      "id": 2,
-      "userName": "Anjitha",
-      "bloodGroup": "O+",
-      "unit": "3",
-      "age": "30",
-      "gender": "female",
-      "state": "Kerala",
-      "district": "Kollam",
-      "phone": "9856782434",
-      "startDate": "2024-07-09T17:23:25.703Z",
+      "startDate": "12/07/2024",
       "currentUnit": 2,
       "donorList": [
         {
@@ -104,6 +93,20 @@
       ]
     },
     {
+      "id": 2,
+      "userName": "Anjitha",
+      "bloodGroup": "O+",
+      "unit": "3",
+      "age": "30",
+      "gender": "female",
+      "state": "Kerala",
+      "district": "Kollam",
+      "phone": "9856782434",
+      "startDate": "12/07/2024",
+      "currentUnit": 3,
+      "donorList": []
+    },
+    {
       "id": 3,
       "userName": "Nizam",
       "bloodGroup": "B+",
@@ -113,9 +116,65 @@
       "state": "Kerala",
       "district": "Ernakulam",
       "phone": "9875624313",
-      "startDate": "2024-07-09T19:03:21.421Z",
+      "startDate": "12/07/2024",
       "currentUnit": 0,
       "donorList": []
+    },
+    {
+      "userName": "sanjay.fs",
+      "bloodGroup": "A+",
+      "unit": "2",
+      "age": "20",
+      "gender": "male",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "phone": "1994465581",
+      "donorList": [],
+      "currentUnit": 2,
+      "startDate": "12/07/2024",
+      "id": 4
+    },
+    {
+      "userName": "sanjay.fs",
+      "bloodGroup": "A+",
+      "unit": "3",
+      "age": "20",
+      "gender": "male",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "phone": "1994465581",
+      "donorList": [],
+      "currentUnit": 2,
+      "startDate": "12/06/2024",
+      "id": 5
+    },
+    {
+      "userName": "sanjay.fs",
+      "bloodGroup": "A+",
+      "unit": "3",
+      "age": "20",
+      "gender": "male",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "phone": "1994465581",
+      "donorList": [],
+      "currentUnit": 2,
+      "startDate": "12/06/2024",
+      "id": 6
+    },
+    {
+      "userName": "sanjay.fs",
+      "bloodGroup": "A+",
+      "unit": "3",
+      "age": "20",
+      "gender": "male",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "phone": "1994465581",
+      "donorList": [],
+      "currentUnit": 3,
+      "startDate": "12/06/2024",
+      "id": 7
     }
   ]
 }
