@@ -24,14 +24,7 @@
       "state": "Kerala",
       "phone": "8848490625",
       "lastDonation": "12/07/2024",
-      "history": [
-        {
-          "id": 1,
-          "recieverName": "Farhana",
-          "phone": "7025167527",
-          "date": "12/07/2024"
-        }
-      ]
+      "history": []
     },
     {
       "id": 2,
@@ -44,14 +37,7 @@
       "state": "Kerala",
       "phone": "7994465581",
       "lastDonation": "12/07/2024",
-      "history": [
-        {
-          "id": 1,
-          "recieverName": "Farhana",
-          "phone": "7025167527",
-          "date": "12/07/2024"
-        }
-      ]
+      "history": []
     },
     {
       "id": 3,
@@ -79,17 +65,8 @@
       "district": "Thrissur",
       "phone": "7025167527",
       "startDate": "12/07/2024",
-      "currentUnit": 2,
-      "donorList": [
-        {
-          "name": "Sanjay",
-          "mobile": "8848490625"
-        },
-        {
-          "name": "Subin",
-          "mobile": "7994465581"
-        }
-      ]
+      "currentUnit": 0,
+      "donorList": []
     },
     {
       "id": 2,
@@ -102,7 +79,7 @@
       "district": "Kollam",
       "phone": "9856782434",
       "startDate": "12/07/2024",
-      "currentUnit": 3,
+      "currentUnit": 0,
       "donorList": []
     },
     {
@@ -129,7 +106,7 @@
       "district": "Ernakulam",
       "phone": "1994465581",
       "donorList": [],
-      "currentUnit": 2,
+      "currentUnit": 0,
       "startDate": "12/07/2024",
       "id": 4
     },
@@ -143,7 +120,7 @@
       "district": "Ernakulam",
       "phone": "1994465581",
       "donorList": [],
-      "currentUnit": 2,
+      "currentUnit": 0,
       "startDate": "12/06/2024",
       "id": 5
     },
@@ -157,7 +134,7 @@
       "district": "Ernakulam",
       "phone": "1994465581",
       "donorList": [],
-      "currentUnit": 2,
+      "currentUnit": 0,
       "startDate": "12/06/2024",
       "id": 6
     },
@@ -171,9 +148,23 @@
       "district": "Ernakulam",
       "phone": "1994465581",
       "donorList": [],
-      "currentUnit": 3,
+      "currentUnit": 0,
       "startDate": "12/06/2024",
       "id": 7
+    },
+    {
+      "userName": "sanjay.fs",
+      "bloodGroup": "B+",
+      "unit": "3",
+      "age": "20",
+      "gender": "male",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "phone": "1994465581",
+      "donorList": [],
+      "currentUnit": 0,
+      "startDate": "12/06/2024",
+      "id": 8
     }
   ]
 }
