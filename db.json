@@ -2,7 +2,7 @@
   "recipients": [
     {
       "id": 1,
-      "username": "Sanjay",
+      "userName": "Sanjay",
       "age": 22,
       "gender": "Male",
       "password": "test@123",
