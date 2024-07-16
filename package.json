@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.4"
-  }
+  },
+  "proxy": "http://localhost:5173"
 }
