@@ -1,7 +1,7 @@
 {
   "admin": [
     {
-      "phone": "7994465581",
+      "phone": "9995377023",
       "password": "test@123",
       "type": "admin"
     }
@@ -9,13 +9,13 @@
   "recipients": [
     {
       "username": "Subin",
-      "age": "23",
+      "age": "24",
       "gender": "male",
       "password": "test@123",
       "bloodGroup": "A+",
       "district": "Ernakulam",
       "state": "Kerala",
-      "phone": "7994465581",
+      "phone": "8848490625",
       "type": "recipient",
       "lastDonation": "",
       "history": [],
@@ -25,18 +25,33 @@
   "donors": [
     {
       "username": "Sanjay",
-      "age": "20",
+      "age": "22",
       "gender": "male",
       "password": "test@123",
       "bloodGroup": "A+",
       "district": "Ernakulam",
       "state": "Kerala",
-      "phone": "8848490625",
+      "phone": "7994465581",
       "type": "donor",
-      "lastDonation": "21/07/2023",
+      "lastDonation": "16/07/2023",
       "history": [],
       "id": 1
     }
   ],
-  "requests": []
+  "requests": [
+    {
+      "userName": "Subin",
+      "bloodGroup": "A+",
+      "unit": "1",
+      "age": "24",
+      "gender": "male",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "phone": "8848490625",
+      "donorList": [],
+      "currentUnit": 1,
+      "startDate": "17/07/2024",
+      "id": 1
+    }
+  ]
 }
